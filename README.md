@@ -13,8 +13,9 @@
 </div>
 <br/>
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dimasbdev&bg_color=0a192f&color=ffffff&line=007acc&point=ffffff&area=true&hide_border=true" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Dimasbdev&bg_color=0a192f&title_color=ffffff&text_color=ffffff&hide_border=true&layout=compact&card_width=800" alt="Top Languages" />
 </div>
 <br/>
 <div align="center">
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dimasbdev&bg_color=0a192f&color=ffffff&line=007acc&point=ffffff&area=true&hide_border=true" />
+</div>
