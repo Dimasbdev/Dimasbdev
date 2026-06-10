@@ -8,14 +8,8 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35" align="center"> GitHub Stats
 
-
-
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dimasbdev&theme=blue-navy" alt="GitHub Streak" />
-</div>
-<br/>
-<div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Dimasbdev&bg_color=0a192f&title_color=ffffff&text_color=ffffff&hide_border=true&layout=compact&card_width=800" alt="Top Languages" />
 </div>
 <br/>
 
@@ -26,4 +20,8 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Dimasbdev/Dimasbdev/pacman-output/galaga-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Dimasbdev/Dimasbdev/pacman-output/galaga-contribution-graph.svg">
 </picture>
+
+<br/>
+
+<img src="https://wakatime.com/share/@ff9b163c-297c-461d-8f8c-8f880e2fea8c/f0f8dee8-7e85-4b4e-a155-e4c25ebe4502.svg" alt="WakaTime Stats" />
 
